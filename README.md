@@ -1,2 +1,1 @@
-- 👋 Hi, Ny nane is Nabin I'm studying in Bachelor of Science (Information Technology) at KMUTT
-- 👀 I’m interested in Backend Developer and Database Management
+- 👋 Hi, My nane is Nabin. I'm interested in Backend Developer and Database Management
